@@ -11,6 +11,9 @@ h1{
     -webkit-background-clip: text;
 
 }
+h2{
+    font-size: 30px;
+}
 p{
     color: gray;
 }
